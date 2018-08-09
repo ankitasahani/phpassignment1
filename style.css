@@ -1,0 +1,22 @@
+h1
+{
+	padding: 10px;
+	text-align: center;
+	font-size: 8rem;
+}
+h3
+{
+	padding: 10px;
+	text-align: center;
+	font-size: 5rem;
+}
+label
+{
+	padding: 10px;
+	font-size: 30px;
+}
+body
+{
+	background-image: url("http://bdfjade.com/data/out/56/5631356-background-image.png");
+	background-repeat: no-repeat;
+}
